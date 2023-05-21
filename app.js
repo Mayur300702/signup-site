@@ -63,5 +63,3 @@ app.listen(3000, ()=>{
     console.log("The server is running smoothly...");
 });
 
-//5b6333b96b
-//api:- e7fc54918d63d6f256b0a6fe7ef4f3a4-us21
